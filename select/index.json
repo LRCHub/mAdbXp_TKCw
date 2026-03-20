@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "backflow",
+  "base_artist": "z²",
+  "createdAt": "2026-03-20T05:22:50.686810Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "backflow",
+      "artist": "Z²",
+      "has_synced": true,
+      "path": "select/01_backflow_Z2.lrc"
+    }
+  ]
+}
